@@ -105,7 +105,7 @@ The dataset was imported into MySQL and transformed into normalized tables for c
 ## Repository Structure
 
 ```text
-week-3-superstore-sales-analysis
+superstore-sales-analysis
 │
 ├── data
 ├── sql
